@@ -1,6 +1,4 @@
 # SSF ES6 Challenges
-
-## Overview 
 This repository is to help you become more familiar with the most important parts of ES6, arrow fucntions, classes, template literals, let and const.
 
 ## Getting Started
@@ -24,4 +22,7 @@ The general pattern for testing your work is below
 ```
 $ npm test -- <file-name>
 ```
-After completing each challenge make sure to 
+After completing each challenge make sure to commit your work. Note the  < > denote placeholders for your actuall commit message.
+```
+$ git add .
+$ git commit -m " <your commit message>"
