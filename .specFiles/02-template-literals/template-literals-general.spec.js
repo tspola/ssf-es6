@@ -1,5 +1,5 @@
 
-templateLiteralTests = {
+const templateLiteralTests = {
 
   resultIsAString: function(fn) {
     test('your function does not return a string', () => {

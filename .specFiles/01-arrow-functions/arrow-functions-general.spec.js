@@ -1,5 +1,5 @@
 
- ArrowFunctionTests = {
+const ArrowFunctionTests = {
 
   usesArrowTest: function(fn, name) {
     test(`${name} is not an arrow funciton`, ()=> {
