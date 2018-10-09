@@ -1,5 +1,5 @@
 const divideBy2 = require('../../challenges/01-arrow-functions/04-divideBy2');
-const ArrowFunctionTests = require('../arrow-functions-general.spec')
+const ArrowFunctionTests = require('./arrow-functions-general.spec')
 
 test('divides 30 by 2 to reach 15', () => {
   expect(divideBy2(30)).toBe(15);

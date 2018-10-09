@@ -1,5 +1,5 @@
 const fizzBuzz30 = require('../../challenges/01-arrow-functions/05-fizzBuzz30');
-const ArrowFunctionTests = require('../arrow-functions-general.spec')
+const ArrowFunctionTests = require('./arrow-functions-general.spec')
 
 test('fizzBuzz30 does not return an array', () => {
   expect(Array.isArray(fizzBuzz30())).toBe(true);
