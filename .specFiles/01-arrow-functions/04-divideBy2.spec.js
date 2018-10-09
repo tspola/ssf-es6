@@ -4,6 +4,6 @@ const ArrowFunctionTests = require('../arrow-functions-general.spec')
 test('divides 30 by 2 to reach 15', () => {
   expect(divideBy2(30)).toBe(15);
 });
-ArrowFunctionTests.usesArrowTest(divideBy2);
-ArrowFunctionTests.usesImplicitReturn(divideBy2);
-ArrowFunctionTests.doesNotUseParens(divideBy2)
+ArrowFunctionTests.usesArrowTest(divideBy2, 'divideBy2');
+ArrowFunctionTests.usesImplicitReturn(divideBy2, 'divideBy2');
+ArrowFunctionTests.doesNotUseParens(divideBy2, 'divideBy2')
