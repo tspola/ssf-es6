@@ -2,7 +2,7 @@
 const ArrowFunctionTests = {
 
   usesArrowTest: function(fn, name) {
-    test(`${name} is not an arrow funciton`, ()=> {
+    test(`${name} is not an arrow function`, ()=> {
       expect(fn.toString().includes('function')).toBe(false)
     }); 
   },

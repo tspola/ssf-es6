@@ -20,12 +20,10 @@
     "jest-expect-message": "^1.0.1",
     "regenerator-runtime": "^0.12.1"
   },
-  "babel": {
-    "presets": [
-        "@babel/preset-env"
-      ]
-  },
   "jest": {
-    "setupTestFrameworkScriptFile": "jest-expect-message"
+    "setupTestFrameworkScriptFile": "jest-expect-message",
+    "transform": {
+      "bacon/^.+\\.js$": "babel-jest"
+    }
   }
 }
