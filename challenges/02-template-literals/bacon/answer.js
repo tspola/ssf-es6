@@ -1,4 +1,4 @@
-import { foo } from './test';
+import { foo } from './bacon';
 
 const myFunc = () => {
 
