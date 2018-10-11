@@ -23,7 +23,7 @@
     "jest": {
         "setupTestFrameworkScriptFile": "jest-expect-message",
         "transform": {
-            "bacon/^.+\\.js$": "babel-jest"
+            "^.+\\.js?$": "babel-jest"
         }
     }
 }
