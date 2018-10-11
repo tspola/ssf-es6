@@ -1,6 +1,8 @@
 //Convert the below function into and ES6 arrow funciton
 
-const sum = (a, b) => a ;
+function sum(a, b) {
+    return a + b;
+}
 
 
 
