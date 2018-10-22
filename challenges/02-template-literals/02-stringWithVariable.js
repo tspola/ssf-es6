@@ -6,4 +6,15 @@ const stringWithVariable = _ => {
     return 'Welcome to ' + CITY;
 };
 
+
+
+
+
+
+
+
+
+
+
+//Do not edit
 module.exports = stringWithVariable;

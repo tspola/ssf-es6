@@ -6,4 +6,11 @@ function divideBy2(num) {
 }
 
 
+
+
+
+
+
+
+//Do not edit
 module.exports = divideBy2;
