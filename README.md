@@ -26,3 +26,9 @@ After completing each challenge make sure to commit your work. Note the  < > den
 ```
 $ git add .
 $ git commit -m " <your commit message>"
+```
+
+## Running Challenges
+Once you have created all challenges push your completed files to the remote repo created by the github classroom
+
+
