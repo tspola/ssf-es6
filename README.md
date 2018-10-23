@@ -22,6 +22,14 @@ The general pattern for testing your work is below
 ```
 $ npm test -- <file-name>
 ```
+Once you run the tests you will see a message in your console indicating whether the tests passed or failed
+
+
+
+| **failed test(s)**  | **passed test(s)** |
+| ------------- | ------------- |
+|<img src="./screenshots/failed-test.png" width="200" />  | <img src="./screenshots/failed-test.png" width="200" />  |
+
 After completing each challenge make sure to commit your work. Note the  < > denote placeholders for your actuall commit message.
 ```
 $ git add .
