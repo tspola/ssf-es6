@@ -36,7 +36,7 @@ $ git add .
 $ git commit -m " <your commit message>"
 ```
 
-## Running Challenges
+## After challanges have been completed
 Once you have created all challenges push your completed files to the remote repo created by the github classroom
 
 
