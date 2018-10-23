@@ -28,7 +28,7 @@ Once you run the tests you will see a message in your console indicating whether
 
 | **failed test(s)**  | **passed test(s)** |
 | ------------- | ------------- |
-|<img src="./screenshots/failed-test.png" width="200" />  | <img src="./screenshots/failed-test.png" width="200" />  |
+|<img src="./screenshots/failed-test.png" width="400" />  | <img src="./screenshots/passed-test.png" width="400" />  |
 
 After completing each challenge make sure to commit your work. Note the  < > denote placeholders for your actuall commit message.
 ```
