@@ -36,7 +36,7 @@ $ git add .
 $ git commit -m " <your commit message>"
 ```
 
-## After challanges have been completed
+## Submite your work after challanges have been completed to be graded.
 Once you have finished all challenges push your completed files to the remote repo created by the github classroom.
  - We push our code up to github using
 ```
