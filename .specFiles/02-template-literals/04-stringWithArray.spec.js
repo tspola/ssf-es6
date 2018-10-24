@@ -9,7 +9,7 @@ test('The returned string should include Leonardo, when given the input: ["Rapha
   expect(RESULT.includes('Leonardo'), `Your function returned:"${RESULT}" This does not include Leonardo from the given input`).toBe(true)
 })
 test('Should return the correct string with the second item from a given input array', () => {
-  const EXPECTED = 'The second item in the array is Simmon.'
+  const EXPECTED = 'The second item in this array is Simmon.'
   const CHIPMUNKS = ['Alvin', 'Simmon', 'Theodore']
   const RESULT = stringWithArray(CHIPMUNKS)
   expect(RESULT, `Your function returned: ${RESULT} We are expecting ${EXPECTED}`).toEqual(EXPECTED)
