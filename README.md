@@ -6,7 +6,7 @@ clone the following repository.
 ```
 $ git clone  https://github.com/SoftStackFactory/ssf-es6.git
 ```
-After clone **cd** into the cloned folder **ssf-es6** and run the folling command
+After clone **cd** into the cloned folder **ssf-es6** and run the following command. After cloning a repo we always need to run **npm install** to get all the code the repository depends on.
 ```
 $ npm install
 ```
