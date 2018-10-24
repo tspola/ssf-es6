@@ -37,6 +37,10 @@ $ git commit -m " <your commit message>"
 ```
 
 ## After challanges have been completed
-Once you have created all challenges push your completed files to the remote repo created by the github classroom
+Once you have finished all challenges push your completed files to the remote repo created by the github classroom.
+ - We push our code up to github using
+```
+$ git push origin master 
+```
 
 
