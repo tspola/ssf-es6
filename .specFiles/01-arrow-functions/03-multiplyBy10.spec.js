@@ -1,5 +1,5 @@
 const multiplyBy10 = require('../../challenges/01-arrow-functions/03-multiplyBy10');
-const ArrowFunctionTests = require('./arrow-functions-general.spec')
+const ArrowFunctionTests = require('./arrow-functions-general')
 
 test('multiplys 5 by 10 to reach 50', () => {
   expect(multiplyBy10(5)).toBe(50);

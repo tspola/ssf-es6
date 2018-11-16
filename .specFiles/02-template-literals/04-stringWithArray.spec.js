@@ -1,5 +1,5 @@
 const stringWithArray = require('../../challenges/02-template-literals/04-stringWithArray');
-const templateLiteralTests = require('./template-literals-general.spec')
+const templateLiteralTests = require('./template-literals-general')
 
 templateLiteralTests.resultIsTemplateLiteral(stringWithArray);
 templateLiteralTests.resultUsesStringInterpolation(stringWithArray);

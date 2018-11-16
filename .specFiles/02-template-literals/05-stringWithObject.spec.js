@@ -1,5 +1,5 @@
 const stringWithObject = require('../../challenges/02-template-literals/05-stringWithObject');
-const templateLiteralTests = require('./template-literals-general.spec')
+const templateLiteralTests = require('./template-literals-general')
 
 templateLiteralTests.resultIsTemplateLiteral(stringWithObject);
 templateLiteralTests.resultUsesStringInterpolation(stringWithObject);
